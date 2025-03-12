@@ -1,4 +1,4 @@
-###  DATE: 
+###  DATE: 12.03.25
 
 ###  NAME: Tarunika D
 ###  ROLL NO : 212223040227
@@ -108,10 +108,10 @@ while (1)
 
 ## Output  :
 
-
+##ONSTATE
 ![IOT EXP2- ON](https://github.com/user-attachments/assets/e086f0be-a553-4464-88d4-cb712cc80188)
 
-
+##OFFSTATE
 ![IOT EXP 2 OFF](https://github.com/user-attachments/assets/c17ab266-2cf2-46ef-86fa-e2663aa20398)
 
  
